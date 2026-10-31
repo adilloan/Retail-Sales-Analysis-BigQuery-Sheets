@@ -50,8 +50,8 @@ Visualize the results in your preferred BI tool.
 
 Adil Loan
 
-LinkedIn: [Insert Your LinkedIn Profile URL Here]
+LinkedIn: www.linkedin.com/in/adil-loan
 
-Email: [Your Email Address]
+Email: adilloan123@gmail.com
 
 Location: Varanasi, India
