@@ -37,7 +37,7 @@ GROUP BY Region
 ORDER BY Total_Sales DESC;
 ```
 
-🚀 How to Use This Project
+##🚀 How to Use This Project
 
 View the Live Dashboard: Click the link above to interact with the Google Sheets dashboard.
 Replicate the Project:
@@ -46,12 +46,10 @@ Upload it to your own Google Cloud BigQuery instance.
 Adapt the SQL queries provided in this README for your analysis.
 Visualize the results in your preferred BI tool.
 
-📬 Contact
+##📬 Contact
 
 Adil Loan
 
 LinkedIn: www.linkedin.com/in/adil-loan
-
 Email: adilloan123@gmail.com
-
 Location: Varanasi, India
