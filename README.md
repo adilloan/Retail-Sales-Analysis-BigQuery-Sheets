@@ -36,10 +36,22 @@ FROM `YOUR_PROJECT_ID.retail_sales_analysis.sales_data`
 GROUP BY Region
 ORDER BY Total_Sales DESC;
 ```
+
+🚀 How to Use This Project
+
+View the Live Dashboard: Click the link above to interact with the Google Sheets dashboard.
+Replicate the Project:
+Download a similar dataset from Kaggle.
+Upload it to your own Google Cloud BigQuery instance.
+Adapt the SQL queries provided in this README for your analysis.
+Visualize the results in your preferred BI tool.
+
+📬 Contact
+
 Adil Loan
 
-LinkedIn: www.linkedin.com/in/adil-loan
+LinkedIn: [Insert Your LinkedIn Profile URL Here]
 
-Email: adilloan123@gmail.com
+Email: [Your Email Address]
 
 Location: Varanasi, India
