@@ -32,7 +32,7 @@ SELECT
   SUM(Sales) as Total_Sales,
   COUNT(*) as Number_of_Orders,
   ROUND(AVG(Sales), 2) as Average_Order_Value
-FROM `YOUR_PROJECT_ID.retail_sales_analysis.sales_data`
+FROM `project.retail_sales_analysis.sales_data`
 GROUP BY Region
 ORDER BY Total_Sales DESC;
 ```
