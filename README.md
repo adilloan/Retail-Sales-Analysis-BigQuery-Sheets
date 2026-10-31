@@ -35,3 +35,8 @@ SELECT
 FROM `YOUR_PROJECT_ID.retail_sales_analysis.sales_data`
 GROUP BY Region
 ORDER BY Total_Sales DESC;
+```
+Adil Loan
+LinkedIn: www.linkedin.com/in/adil-loan
+Email: adilloan123@gmail.com
+Location: Varanasi, India
