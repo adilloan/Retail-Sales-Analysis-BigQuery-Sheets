@@ -4,7 +4,7 @@ This project performs a comprehensive analysis of retail sales data to identify 
 
 **🔗 Live Tableau Dashboard:** [View Interactive Dashboard](https://public.tableau.com/app/profile/adil.loan/viz/SuperstoreExecutiveSalesProfitAnalysis_17935485770990/Dashboard1?publish=yes)
 
-**🔗 Google Sheets Version:** [View Basic Analysis](Insert_Your_Google_Sheets_Link_Here) 
+**🔗 Google Sheets Version:** [View Basic Analysis](https://docs.google.com/spreadsheets/d/1ohl-Eik97ABSRJasKnJHryPgJSKj2PXQxG_PXI2QfYc/edit?usp=sharing) 
 
 ## 🛠 Tools & Technologies
 
