@@ -44,28 +44,6 @@ Based on the analysis of the retail sales data, the following insights were iden
 
 These findings highlight the importance of strategic resource allocation and targeted marketing to maximize revenue and mitigate risks in underperforming segments.
 
-## 💻 SQL Queries Used
-
-Below is an example of the SQL logic used to extract regional sales performance:
-
-```sql
-
-SELECT 
-
-  Region,
-
-  SUM(Sales) as Total_Sales,
-
-  COUNT(*) as Number_of_Orders,
-
-  ROUND(AVG(Sales), 2) as Average_Order_Value
-
-FROM `project.retail_sales_analysis.sales_data`
-
-GROUP BY Region
-
-ORDER BY Total_Sales DESC;Note: Full query set available in the project documentation or upon request.
-```
 ** 🚀 How to Replicate This Analysis
 
 Data Source: This project uses the Superstore Sales Dataset (available on Kaggle).
