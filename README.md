@@ -1,5 +1,3 @@
-Here is the updated, professional README file with your Tableau link integrated and the content refined to highlight your dual-tool expertise (SQL + Tableau).You can copy and paste this directly into your GitHub repository.MarkdownCopied!Copy# Retail Sales Analysis Dashboard (SQL + Tableau)
-
 ## 📊 Project Overview
 
 This project performs a comprehensive analysis of retail sales data to identify revenue trends, top-performing products, and regional sales performance. The primary objective was to demonstrate proficiency in cloud data management, advanced SQL querying, and professional business intelligence visualization.
