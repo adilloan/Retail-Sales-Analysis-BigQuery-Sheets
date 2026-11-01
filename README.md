@@ -66,7 +66,7 @@ GROUP BY Region
 
 ORDER BY Total_Sales DESC;Note: Full query set available in the project documentation or upon request.
 ```
-🚀 How to Replicate This Analysis
+** 🚀 How to Replicate This Analysis
 
 Data Source: This project uses the Superstore Sales Dataset (available on Kaggle).
 
